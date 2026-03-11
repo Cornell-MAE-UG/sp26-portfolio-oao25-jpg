@@ -3,7 +3,6 @@ layout: project
 title: Nutcracker Design
 description: Advanced Statics Project
 technologies: None 
-image: <img width="1250" height="750" alt="image" src="https://github.com/user-attachments/assets/93f42c39-fecd-40aa-91de-2da24066ae4b" />
 credits: https://doi.org/10.1007/s10071-007-0131-2
 ---
 
