@@ -7,7 +7,7 @@ image: <img width="1250" height="750" alt="image" src="https://github.com/user-a
 credits: https://doi.org/10.1007/s10071-007-0131-2
 ---
 
-Problem: Draw a nutcracker that can crack a macadamia nut specifically
+Problem: Draw a diagram of a nutcracker that can crack a macadamia nut specifically
 
 The constraints on this design are based on values that I will give below
 
